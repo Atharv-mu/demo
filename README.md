@@ -8,7 +8,7 @@ This project contains a minimal static webpage that displays a basic "Hello Worl
 - create and manage a GitHub repository
 - write HTML
 - open a webpage locally
-- collaborate with others using pull requests
+- collaborate with others using pull requests and push and merge
 
 ## Project Structure
 
